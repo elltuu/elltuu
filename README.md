@@ -38,9 +38,8 @@
 </div>
 
 <br/>
-<br/>
 
-### 📊 Estatísticas
+### 📊 Stats
 
 <p>
   <img 
